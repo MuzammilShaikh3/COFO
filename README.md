@@ -1,4 +1,11 @@
 # COFO
+- An online food ordering system is
+developed where the customers
+can make an order for the food and
+avoid the hassles of waiting for the
+order to be taken by the waiter.
+
+
 - Select Page
 
 ![image](https://user-images.githubusercontent.com/30564975/186428497-98af822f-4f26-4abb-9919-d868dfb34620.png)
